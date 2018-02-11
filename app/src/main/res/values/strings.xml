@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SWY</string>
+    <string name="button2">login</string>
+    <string name="button3">regiter</string>
+    <string name="textView3">user name :</string>
+    <string name="editText4"></string>
+    <string name="textView4">password</string>
+    <string name="editText5"></string>
+    <string name="button">login</string>
+    <string name="textView">Email</string>
+    <string name="textView7">Email</string>>
+    <string name="textView8" tools:ignore="DuplicateDefinition">user name</string>
+    <string name="textView10">password</string>
+    <string name="textView9">name</string>
+    <string name="button5">register</string>
+    <string name="editText8"></string>
+
+</resources>
